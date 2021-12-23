@@ -1,0 +1,9 @@
+com\HRM\utilities\ReadConfig.class
+com\HRM\utilities\BaseClass.class
+com\HRM\pages\HRM_PIM.class
+com\HRM\pages\HRM_HomePage.class
+com\HRM\pages\HRM_LoginPage.class
+com\HRM\utilities\Reporting.class
+com\HRM\testCases\Tc_002_CreateNewEmployeeAndLoginWithNewEmployee.class
+com\HRM\utilities\ExcelUtils.class
+com\HRM\testCases\Tc_001_LoginIntoAppWithValidCreds.class
