@@ -1,1 +1,3 @@
 This is to show how to avoid merge conflicts.
+
+This is the change i am implementing to see it getting updated in GIT REPO
